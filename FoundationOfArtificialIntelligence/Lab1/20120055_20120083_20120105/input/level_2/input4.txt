@@ -1,0 +1,47 @@
+11
+33 18 -4
+32 15 -3
+10 19 -1
+7 23 -4
+19 23 -2
+6 3 -4
+9 19 -3
+7 6 -2
+7 11 -4
+15 24 -2
+3 13 -2
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x   x         x           x     x x
+x x x x xxxxx x xxxxxxx x x xxx x x
+x x   x x   x+x x   x   x   x x   x
+x xxxxxxx x xxx x x x xxxxxxx xxx x
+x x   x   x x   x x x x x     x   x
+x x+x x xxx x xxx xxx x x x xxx xxx
+x x x +   x+x x   x   x+  x x   x x
+x x xxxxxxx x x x x xxxxxxx x xxx x
+x     x     x S x x+x       x x   x
+xxxxxxx xxx x xxxxx+x x xxxxx x xxx
+x       x   x x   x x x x   x x   x
+x x xxxxxxxxx xxx x xxx x x x xxx x
+x x x       x x x x   x   x       x
+x xxx xxxxx x x x x x xxxxxxxxxxxxx
+x x   x x   x x x x x   +         x
+x x xxx x x x x x xxxxxxx xxxxxxx x
+x   x   x x x x x       x   x   x x
+x xxx x x x x x xxxxxxx xxx xxx x x
+x     x x x x   x     x+x x     x x
+xxx xxxxx xxxxx xxxxx x x xxxxx x x
+x x x   x     x       x x   x   x x
+x x x x xxx x x xxxxxxx x xxx xxx x
+x   x x     x x x   x   x   x   x x
+x xxx x xxxxxxx x x x xxxxx x xxx x
+x   x x x       x x   x     x x   x
+xxxxx xxx xxxxxxx xxxxx xxxxx x xxx
+x     x   x     x x   x x     x   x
+x xxx x xxx xxx x x x x x xxxxxxx x
+x x   x     x   x   x x   x       x
+x xxx xxxxxxx xxxxxxx xxxxx xxxxx x
+x   x     x   x     x     x     x x
+x x xxxxxxx xxx+xxx xxxxx xxxxx x x
+x x             x +     x       x x
+xxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,57 @@
+13
+27 33 -3
+5 11 -2
+13 17 -4
+22 5 -3
+14 23 -1
+12 3 -1
+19 11 -1
+2 33 -3
+33 3 -2
+29 34 -3
+1 21 -1
+26 5 -3
+3 39 -4
+xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x     x         x    +      x       x     x
+x x xxx x x xxxxx x x xxxxx xxx  +x x xxx x
+x x x     x         x     x       x   x+  x
+x x   xxx x xxxx xxxx xxx xxx xxx xxxxx xxx
+x x x x   x+              x x   x x   x x x
+x x x x xxxxxxxxx x xx  xxx xxx x x   x x x
+x x   x         x x   x     x x   x x   x x
+x x xxx xxx xxx   xxx   x x x xxxxx x xxx x
+x       x   x   x x   x x x   x     x     x
+xxxxxxx x  xxxxxx x xxx x xxxxx xxxxxxx xxx
+x     x x   x     x x                 x   x
+xxx+ xx  xx x xxxxx x x xxxxxxxxxxxxx xxx x
+x       x x   x  +x x x       x           x
+x x x x   xxxxx x x x x+xxxxx x   x xxxxx x
+x x x   x       x x   x x   x x x x x   x x
+x x xxx xxx xxx  xxxx xxx x xxx   xxx x x x
+x x   x       x x   x   x x x   x   x x x x
+x  x  xxx xxx xx  x  xx   x   xxxx   xx xxx
+x   x   x  +x     x   x   x x x   x   x   x
+x x x  xxx  x x x xxx  xxxx x xxx x xxxxx x
+x x x     x x x     x     x   x   x       x
+x x x+x x x x xxxxxxxxx xxxxxxx xxxxxxxxxxx
+x x     x   x x       x x   S             x
+x xxxxxxxxxxxxx xxxx  x x xxxxx x xxxxx x x
+x x           x x   x x               x x x
+x xxx+x xxx x x xxx x xxxx  xxxx xxxx  xx x
+x   x x   x x x x   x x     x    +  x     x
+xxx x x x x x x x xxx x xxx xxx xxxxxxxxx x
+x x x   x x x   x   x x x       x +     x x
+x x x  xxxx xxx xxx x x x xx xx   x xxx x x
+x x         x     x x x   x     x x       x
+x xx xxxxxxxx xxx   x   x x xxxxx xxxxxxxxx
+x  +  x   x     x   x   x x x   x         x
+xxx xxx x x xx  xxxxxxx x xx  x xxxxxxxxx x
+x   x   x   x x               x       x   x
+x x   x xxxxx xx xxxxxxxxxxxxxxx  xxxxx xxx
+x x x   x         x               x     x x
+x xxxx  x xxxxx x   xxx   xxxxxxxxx xxxxx x
+x x   x x x     x   x x x   x   x   x     x
+x   x x xxx x   x xxx x xxx x x x xx  xx  x
+x   x       x   x             x       x   x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
